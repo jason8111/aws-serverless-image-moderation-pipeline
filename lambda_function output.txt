@@ -1,0 +1,8 @@
+{
+  "ImageKey": "sample_meme.png",
+  "IsFlagged": false,
+  "ModerationLabels": [],
+  "FacialEmotions": ["HAPPY"],
+  "ExtractedText": "Great team effort on the project launch!",
+  "TextSentiment": "POSITIVE"
+}
